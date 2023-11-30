@@ -1,0 +1,9 @@
+@import '~bootstrap';
+@import '~@fontsource/inter';
+@import '~@fortawesome/fontawesome-free/css/fontawesome';
+@import '~@fortawesome/fontawesome-free/css/regular';
+@import '~@fortawesome/fontawesome-free/css/solid';
+@import '~@fortawesome/fontawesome-free/css/brands';
+@import '~lightgallery/css/lightgallery-bundle';
+@import '~datatables.net-bs5/css/dataTables.bootstrap5';
+@import '~datatables.net-responsive-bs5/css/responsive.bootstrap5';

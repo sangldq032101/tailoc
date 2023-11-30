@@ -1,0 +1,23 @@
+{
+    "short_name": "Tai Loc Hostel",
+    "name": "Tai Loc Hostel",
+    "icons": [
+        {
+            "src": "/assets/img/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/assets/img/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "id": "/",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "fullscreen",
+    "scope": "/",
+    "theme_color": "#04243c",
+    "description": "Tai Loc Hostel - a hostel website"
+}
